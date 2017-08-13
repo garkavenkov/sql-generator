@@ -1,0 +1,19 @@
+
+{
+    "name": "garkavenkov/sql-generator",
+    "description": "Generate SQL statements",
+    "license": "MIT",
+    "keyword": ["SQL"],
+    "authors": [
+        {
+            "name": "Maksim Garkavenkov",
+            "email": "maksim.garkavenkov@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Garkavenkov\\SQLGenerator\\": "src"
+        }
+    }
+}
